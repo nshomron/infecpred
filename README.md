@@ -1,5 +1,5 @@
 ## Predicting bloodstream infection outcome using machine learning 
-From the manuscript titled: **Predicting bloodstream infection outcome using machine learning** by: Yazeed Zoabi, Orli Kehat, Dan Lahav, Ahuva Weiss-Meilek, Amos Adler, Noam Shomron
+From the manuscript titled: [**Predicting bloodstream infection outcome using machine learning** by: Yazeed Zoabi, Orli Kehat, Dan Lahav, Ahuva Weiss-Meilek, Amos Adler, Noam Shomron](https://www.medrxiv.org/content/10.1101/2021.05.18.21257369v1), medRxiv; [doi:10.1101/2021.05.18.21257369](https://doi.org/10.1101/2021.05.18.21257369)
 
 ## Model Predictors and their respective units
 * **RDW** - (%)
